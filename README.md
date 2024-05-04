@@ -1,5 +1,5 @@
-# THIS IS THE BACKEND EXPRESS SERVER USED BY THE REACT FRONTEND APPLICATION.
-this is implemented as a backend server for the react application which explains the use of authentication and authorization in react.  
+# BACKEND EXPRESS SERVER USED BY THE REACT FRONTEND APPLICATION.
+This is implemented as a backend server for the react application which explains the use of authentication and authorization in react.  
 # INSTALLATION
 1- Install MongoDB server as a service and start it.
 
